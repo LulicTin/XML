@@ -1,0 +1,84 @@
+body{
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+nav{
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 30px;
+    background-image: -webkit-linear-gradient(top, #1ba768, #9e17a0);
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+}
+
+li{
+    display: inline;
+    width: 20%;
+}
+
+.pocetna {
+	width: 92%;
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+.paragraf {
+	max-width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.slika2 {
+	width: 30%;
+}
+
+.pocetna p{
+	color: #000000;
+	text-decoration-style: solid;
+}
+
+footer{
+    background-image: -webkit-linear-gradient(top, #1ba768, #9e17a0);
+    color: white;
+    width: 90%;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+	margin: 0 auto;
+}
+
+.Ponuda{
+    width: 20%;
+}
+
+.prodaja {
+	text-align: center;
+}
+
+.kosarica{
+    color: red;
+	font-size: large;
+    padding: 0;
+}
+
+.kosarica:hover{
+    color: black;
+    color: #9e17a0;
+	font-size: larger;
+    padding: 0;
+}
+
+hr {
+	width: 90%;
+}

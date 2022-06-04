@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Kolekcija.xsl"?>
+<NaPonudi>
+    <Manga>
+        <Ime>Demon Slayer - Volume 5</Ime>
+        <Cijena>86,00kn</Cijena>
+        <Zanr>Avantura, Borilačke vještine</Zanr>
+        <GodinaIzdanja>2019</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Demon Slayer - Volume 23</Ime>
+        <Cijena>86,00kn</Cijena>
+        <Zanr>Avantura, Borilačke vještine</Zanr>
+        <GodinaIzdanja>2020</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Demon Slayer - Volume 18</Ime>
+        <Cijena>86,00kn</Cijena>
+        <Zanr>Avantura, Borilačke vještine</Zanr>
+        <GodinaIzdanja>2020</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Demon Slayer - Volume 22</Ime>
+        <Cijena>86,00kn</Cijena>
+        <Zanr>Avantura, Borilačke vještine</Zanr>
+        <GodinaIzdanja>2020</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Spy x Family - Volume 1</Ime>
+        <Cijena>Cijena</Cijena>
+        <Zanr>Akcija, Špijunska fikcija, Komedija</Zanr>
+        <GodinaIzdanja>2021</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Spy x Family - Volume 2</Ime>
+        <Cijena>Cijena</Cijena>
+        <Zanr>Akcija, Špijunska fikcija, Komedija</Zanr>
+        <GodinaIzdanja>2021</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Spy x Family - Volume 5</Ime>
+        <Cijena>Cijena</Cijena>
+        <Zanr>Akcija, Špijunska fikcija, Komedija</Zanr>
+        <GodinaIzdanja>2021</GodinaIzdanja>
+    </Manga>
+    <Manga>
+        <Ime>Spy x Family - Volume 686,00kn</Ime>
+        <Cijena>Cijena</Cijena>
+        <Zanr>Akcija, Špijunska fikcija, Komedija</Zanr>
+        <GodinaIzdanja>2021</GodinaIzdanja>
+    </Manga>
+</NaPonudi>
